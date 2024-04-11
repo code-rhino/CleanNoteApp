@@ -3,6 +3,8 @@
 ## Overview
 This Note-Taking App is a comprehensive solution built with React Native and Redux, designed for mobile platforms. It allows users to create, view, and delete personal notes while ensuring a clean and user-friendly interface. Additional features include user profile management and content moderation to prevent negative or offensive language in the notes.
 
+![](./images/imageA.png)
+
 ## Features
 - **Note Management**: Users can create new notes, view existing notes in a grid format, and delete notes as needed.
 - **Content Moderation**: The app integrates with a third-party API for profanity and toxicity detection to ensure that notes do not contain negative content.
@@ -72,8 +74,3 @@ Contributions to the Note-Taking App are welcome. Please ensure to follow the pr
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-
-![](./images/image01.png)
-![](./images/image02.png)
-![](./images/image03.png)
-![](./images/image04.png)
